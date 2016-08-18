@@ -1,0 +1,8 @@
+.gitignore
+/importer/nbproject/private/
+/importer/dist/
+/importer/build/
+/importer/target/
+/importer/src/main/resources/application.properties
+/importer/nbproject/
+/importer/nb-configuration.xml
